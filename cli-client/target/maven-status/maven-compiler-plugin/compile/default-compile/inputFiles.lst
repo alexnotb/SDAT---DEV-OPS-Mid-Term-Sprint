@@ -1,0 +1,9 @@
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/FlightCliApplication.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/cli/FlightCli.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/http/HttpRequester.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/http/JavaHttpRequester.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/model/AircraftAirportsView.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/model/CityAirportsView.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/model/PassengerAircraftView.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/model/PassengerAirportsView.java
+/Users/keyin/Desktop/SDAT + DEV OPS Mid Term Sprint/cli-client/src/main/java/com/example/flightcli/service/FlightApiClient.java
