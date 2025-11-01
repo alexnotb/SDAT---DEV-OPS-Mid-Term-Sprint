@@ -15,6 +15,11 @@ This workspace contains both parts of the Sprint Week assignment:
 - GitHub Actions workflow for the CLI (`mvn verify`).
 - Sample data loaded at startup to help with Postman demos.
 
+## Team Roles
+
+- Backend (Spring Boot API): Ivan Zymalov
+- CLI, testing, DevOps tooling: Oleksii Bezkibalnyi
+
 ## Next Steps for Submission
 
 1. Initialize two separate GitHub repositories and push `api-server` and `cli-client` independently.
