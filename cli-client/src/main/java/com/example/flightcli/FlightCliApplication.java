@@ -6,6 +6,7 @@ import com.example.flightcli.cli.FlightCli;
 import com.example.flightcli.http.JavaHttpRequester;
 import com.example.flightcli.service.FlightApiClient;
 
+// CLI lead: Oleksii Bezkibalnyi
 public class FlightCliApplication {
 
     public static void main(String[] args) {

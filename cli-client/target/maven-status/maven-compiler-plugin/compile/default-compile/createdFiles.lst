@@ -1,0 +1,9 @@
+com/example/flightcli/service/FlightApiClient.class
+com/example/flightcli/model/AircraftAirportsView.class
+com/example/flightcli/model/PassengerAircraftView.class
+com/example/flightcli/FlightCliApplication.class
+com/example/flightcli/cli/FlightCli.class
+com/example/flightcli/http/JavaHttpRequester.class
+com/example/flightcli/http/HttpRequester.class
+com/example/flightcli/model/CityAirportsView.class
+com/example/flightcli/model/PassengerAirportsView.class
